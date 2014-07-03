@@ -1,5 +1,0 @@
-Nagyon szeretem az én cicámat Kittit!
-<<<<<<< HEAD
-Ezt a sort commitoltam upsz!
-=======
->>>>>>> bfafbe2b79191a47d062ead1117f764920420e86
